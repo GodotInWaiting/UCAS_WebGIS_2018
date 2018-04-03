@@ -1,0 +1,19 @@
+body{
+	background-color: #0000ff;
+}
+
+td{
+	background-color: #ff0000;
+}
+
+#p1{
+	background-color: #ffff00;
+}
+
+#p2{
+	background-color: #00ff00;
+}
+
+.c1{
+	background-color: #00ffff;
+}
