@@ -1,0 +1,38 @@
+html,body{
+	width: 100%;
+	height: 100%;
+	background-color: #000000;
+	margin: 0px;
+}
+
+#main{
+	width: 100%;
+	height: 100%;	
+	background-color: #FFFFFF;
+}
+
+#top{
+	width: 100%;
+	height: 13%;
+	background-color: #DC143C;
+}
+
+#bottom{
+	width: 100%;
+	height: 87%;
+	background-color: #40E0D0;
+}
+
+#left{
+	width: 38%;
+	height: 100%;
+	background-color: #FFC0CB;
+	float: left;
+}
+
+#right{
+	width: 62%;
+	height: 100%;
+	background-color: #FFB6C1;
+	float: left;
+}
